@@ -17,14 +17,16 @@ Algumas funções do script:
 #### TODO
 - Acrescentar novas funcionalidades
 - Acrescentar no README informações de instalação de módulos
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+
 
 License
 ----
 
 MIT
 
- Link do post utilizado: [G1: Lista de empresas com vagas de estágio e trainee](https://g1.globo.com/economia/concursos-e-emprego/noticia/lista-de-programas-de-estagio-e-trainee.ghtml)
+
+
+Link do post utilizado: [G1: Lista de empresas com vagas de estágio e trainee](https://g1.globo.com/economia/concursos-e-emprego/noticia/lista-de-programas-de-estagio-e-trainee.ghtml)
  
  
 **Dedicado a todos os estudantes! #UERJRESISTE**
